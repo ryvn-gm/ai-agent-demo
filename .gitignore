@@ -209,3 +209,6 @@ __marimo__/
 
 .demo
 .langgraph_api
+output_*
+*_answer.ipynb
+exercises/data_agent/agent.py

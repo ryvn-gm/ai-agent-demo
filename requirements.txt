@@ -2,8 +2,10 @@ langchain
 langchain-openai
 langchain-community
 langchain-tavily
+langchain-ollama
 langsmith
 
+ollama
 python-dotenv
 pydantic
 matplotlib
@@ -16,4 +18,5 @@ IPython
 fastapi
 uvicorn
 
+# For LangGraph CLI
 langgraph-cli
